@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "sword_01",
+      "price": 100,
+      "damage": 10
+    },
+    {
+      "id": "potion_01",
+      "price": 50,
+      "heal": 25
+    }
+  ]
+}
